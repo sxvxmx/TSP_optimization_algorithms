@@ -1,6 +1,6 @@
 Description:
 
-This project aims to explore and implement various optimization algorithms to solve complex optimization problems efficiently. The algorithms we will focus on are Ant Colony Optimization (ACO), Nearest Neighbor Search (NNS), Simulated Annealing, and Genetic Algorithms (GA). Each algorithm offers unique strengths in tackling optimization problems, all of them will be compared on Traveling Salesman Problem (TSP). 
+This project aims to explore and implement various optimization algorithms to solve complex optimization problems efficiently. The algorithms we will focus on are Ant Colony Optimization (ACO), Nearest Neighbor Search (NNS), Simulated Annealing. Each algorithm offers unique strengths in tackling optimization problems, all of them will be compared on Traveling Salesman Problem (TSP). 
 
 1. Ant Colony Optimization (ACO):
 Ant Colony Optimization is inspired by the foraging behavior of ants. In this algorithm, artificial ants explore the solution space and deposit pheromones on the paths they traverse. Over time, these pheromone trails guide subsequent ants to find optimal solutions. 
