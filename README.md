@@ -10,6 +10,3 @@ Nearest Neighbor Search is a simple yet effective algorithm used for finding the
 
 3. Simulated Annealing:
 Simulated Annealing is a probabilistic optimization technique inspired by the annealing process in metallurgy. It starts with an initial solution and iteratively explores the solution space by accepting or rejecting new solutions based on a probability distribution. This allows the algorithm to escape local optima and converge towards better solutions. We will apply Simulated Annealing to optimize problems with complex and rugged search spaces.
-
-4. Genetic Algorithms (GA):
-Genetic Algorithms are population-based optimization algorithms inspired by the process of natural selection and genetics. They maintain a population of candidate solutions and iteratively evolve them using operators such as selection, crossover, and mutation. Genetic Algorithms are well-suited for problems with large solution spaces and multiple objectives. This project use GA to optimize functions with non-linear constraints and multi-objective optimization problems.
