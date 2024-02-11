@@ -10,3 +10,7 @@ Nearest Neighbor Search is a simple yet effective algorithm used for finding the
 
 3. Simulated Annealing:
 Simulated Annealing is a probabilistic optimization technique inspired by the annealing process in metallurgy. It starts with an initial solution and iteratively explores the solution space by accepting or rejecting new solutions based on a probability distribution. This allows the algorithm to escape local optima and converge towards better solutions. We will apply Simulated Annealing to optimize problems with complex and rugged search spaces.
+
+GUI example:
+![image](https://github.com/sxvxmx/TSP_optimization_algorithms/assets/115085796/2f87a463-8d80-4712-93b9-9d848a855a2f)
+
